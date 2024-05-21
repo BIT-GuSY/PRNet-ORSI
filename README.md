@@ -1,5 +1,5 @@
 # PRNet for ORSI-SOD
-[GRSL 2024] PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images
+[GRSL2024] PRNet: Parallel Refinement Network with Group Feature Learning for Salient Object Detection in Optical Remote Sensing Images
 
 # Citation
     @ARTICLE{PRNet2024GRSL,
