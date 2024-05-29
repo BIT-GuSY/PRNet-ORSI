@@ -1,0 +1,12 @@
+(Dataset:ORSI-4199; Model:PRNet-EfficientNet-B4) Smeasure:0.8822; maxFm:0.8817; meanFm:0.8750; adpFm:0.8715; maxEm:0.9539; meanEm:0.9499; adpEm:0.9274; MAE:0.0254.
+
+(Dataset:ORSI-4199; Model:PRNet-PVTv2-B3) Smeasure:0.8873; maxFm:0.8819; meanFm:0.8765; adpFm:0.8742; maxEm:0.9527; meanEm:0.9484; adpEm:0.9274; MAE:0.0272.
+
+(Dataset:ORSSD; Model:PRNet-EfficientNet-B4) Smeasure:0.9468; maxFm:0.9153; meanFm:0.9013; adpFm:0.8915; maxEm:0.9866; meanEm:0.9824; adpEm:0.9779; MAE:0.0068.
+
+(Dataset:ORSSD; Model:PRNet-PVTv2-B3) Smeasure:0.9459; maxFm:0.9177; meanFm:0.9035; adpFm:0.8940; maxEm:0.9848; meanEm:0.9800; adpEm:0.9779; MAE:0.0075.
+
+(Dataset:EORSSD; Model:PRNet-EfficientNet-B4) Smeasure:0.9296; maxFm:0.8707; meanFm:0.8510; adpFm:0.8282; maxEm:0.9809; meanEm:0.9732; adpEm:0.9625; MAE:0.0053.
+
+(Dataset:EORSSD; Model:PRNet-PVTv2-B3) Smeasure:0.9276; maxFm:0.8684; meanFm:0.8496; adpFm:0.8280; maxEm:0.9784; meanEm:0.9706; adpEm:0.9582; MAE:0.0054.
+
